@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Key Hook Service</string>
+    <string name="service_summary">My key hook service</string>
+    <string name="service_description">Hook volume keys and perform custom actions</string>
+</resources>
